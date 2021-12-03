@@ -1,0 +1,10 @@
+=>  Premium user
+	-> Email : karankapadia@gamil.com
+	-> Password : karan@123
+	
+=> 	Register User	
+	->Email:nick@gmail.com
+	->123nikki
+	
+=>when you want to register a new user, i am attaching one folser called
+	'useForDatingSite' from there you can find all images.
